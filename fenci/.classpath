@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/jieba-analysis-1.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/spark-assembly-1.6.0-hadoop2.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/IKAnalyzer2012_u6.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-core-3.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/jcseg-analyzer-1.9.9.jar"/>
+	<classpathentry kind="lib" path="lib/jcseg-core-1.9.9.jar"/>
+	<classpathentry kind="lib" path="lib/fastjson-1.2.31.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
